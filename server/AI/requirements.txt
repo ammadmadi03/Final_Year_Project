@@ -6,6 +6,5 @@ matplotlib
 pandas
 tabulate
 Pillow
-cv2
 io
 os
